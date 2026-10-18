@@ -1,0 +1,10 @@
+python-telegram-bot[socks]==22.8
+Django==5.2.18
+yt-dlp[default]==2026.8.19
+deno==2.9.7
+ytmusicapi==1.12.3
+mutagen==1.48.1
+requests[socks]==2.34.2
+python-dotenv==1.2.4
+Pillow==13.0.0
+RapidFuzz==3.14.6
